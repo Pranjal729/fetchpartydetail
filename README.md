@@ -14,3 +14,9 @@ Use the search bar to search for a party by name. The search is case-insensitive
 
 
 Click on a party to view their details, including their address, city, pincode, and balance information.
+
+# output 
+
+
+https://user-images.githubusercontent.com/125556024/234643777-0f9463b2-698f-4802-98d6-90fee618a948.mp4
+
